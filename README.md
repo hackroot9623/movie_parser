@@ -21,8 +21,9 @@ This script generates an XLS file containing a list of folders in a specified di
    python folder_list.py
 4. Enter the directory path when prompted.
 5. The script will recursively process the folders in the specified directory and generate an XLS file named "folder_list.xls" containing the extracted data.
-## Folder Naming Convention
-  ```scss
-  (year)name of the movie[Director and lead actor]
 
--The year should be enclosed in parentheses.
+## Folder Naming Convention
+   ```scss
+   (year)name of the movie[Director and lead actor]
+
+- The year should be enclosed in parentheses.
