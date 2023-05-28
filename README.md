@@ -45,6 +45,7 @@ Suppose the directory structure is as follows:
 Running the script on the "Movies" directory will generate the following XLS file:
 
 | Year | Name of the Movie | Director |
+| --- |---|----|
 | 2010 | Movie1 | Director1 |
 | 2012 | Movie2 | Director2 |
 | 2013 | Movie3 | Director3 |
