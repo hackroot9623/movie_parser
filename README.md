@@ -1,5 +1,4 @@
-# movie_parser
-# Project Title
+# Project Title movie_parser
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
