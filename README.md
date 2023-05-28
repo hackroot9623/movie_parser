@@ -50,3 +50,11 @@ Running the script on the "Movies" directory will generate the following XLS fil
 | 2012 | Movie2 | Director2 |
 | 2013 | Movie3 | Director3 |
 | 2013 | Movie4 | Director4 |
+
+## Contact
+
+If you have any questions, feel free to reach out:
+
+- [Email](mailto:eliser.santiesteban.1996@gmail.com)
+- [Twitter](https://twitter.com/hackroot231)
+
